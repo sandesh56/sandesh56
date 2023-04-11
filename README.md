@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sandesh.
-- 👀 I’m interested in Fullstack developement. 
-- 🌱 I’m currently learning Java core. 
+- 👀 I’m interested in Fullstack developement.  
 - 📫 Reach me on sandeshrauth644@gmail.com
 
 <!---

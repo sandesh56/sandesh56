@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandesh.
 - 👀 I’m interested in Fullstack developement.  
-- 📫 Reach me on sandeshrauth644@gmail.com
+- 📫 Reach me on sandeshrauth97@gmail.com
 
 <!---
 sandesh56/sandesh56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
